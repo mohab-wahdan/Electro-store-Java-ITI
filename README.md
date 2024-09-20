@@ -13,6 +13,7 @@
 The project supports both administrator and user functionalities, providing a complete e-commerce solution.
 
 ---
+## Watch the Demo (Click on the image!)
 [![Watch the Demo](https://github.com/mohab-wahdan/Electro-store-Java-ITI/blob/dev/Demo%20img.JPG)](https://youtu.be/MZokETOjzBo)
 ---
 ## Table of Contents
